@@ -4,13 +4,18 @@
     box-sizing: border-box;
 }
 
+body {
+    display: grid;
+    grid-template-columns: 20% 80%;
+}
+
 .videowrapper {
     position: relative;
     padding-bottom: 56.25%; /* 16:9 */
     padding-top: 25px;
     height: 0;
     margin: 0 auto;
-    border: 6px ridge #808080;
+    border: none;
 }
 .videowrapper iframe {
     position: absolute;
