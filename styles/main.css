@@ -74,6 +74,10 @@ main section {
     grid-area: videos;
 }
 
+main h4 {
+    background-color: purple;
+}
+
 footer {
     grid-area: footer;
     background-color: blueviolet;
@@ -101,6 +105,7 @@ footer {
     margin-top: 10px;
     border-left: 25px solid #ff7700;
     padding-left: 10px;
+    background-color: green;
 }
 
 /*MEDIA QUERY*/
