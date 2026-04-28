@@ -75,7 +75,7 @@ main section {
 }
 
 main h4 {
-    background-color: purple;
+    background-color: cyan;
 }
 
 footer {
@@ -105,7 +105,7 @@ footer {
     margin-top: 10px;
     border-left: 25px solid #ff7700;
     padding-left: 10px;
-    background-color: green;
+    background-color: rgba(255, 255, 255, 0.5);
 }
 
 /*MEDIA QUERY*/
